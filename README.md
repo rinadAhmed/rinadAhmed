@@ -18,18 +18,9 @@
 
 <br>
 <br>
-<p align="center">
-  <a href="رابط-لينكدإن">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A970FF"
-      alt="LinkedIn"
-    />
-  </a>
 
-  <a href="رابط-الانستقرام">
-    <img
-      src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=A970FF"
-      alt="Instagram"
-    />
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/USERNAME"><img src="./image/lik.png" height="70" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/USERNAME"><img src="./image/ins.png" height="70" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/USERNAME"><img src="./image/telegram.png" height="70" alt="Telegram"></a>
+</div>
